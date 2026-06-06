@@ -1,5 +1,12 @@
 # Important-Coding-Interview-Questions
 
+1. Power of Two https://leetcode.com/problems/power-of-two/
+2. Subsets https://leetcode.com/problems/subsets/
+3. Maximum XOR of Two Numbers in an Array https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+4. Find Xor-Beauty of Array https://leetcode.com/problems/find-xor-beauty-of-array/
+5. Watering Plants II https://leetcode.com/problems/watering-plants-ii/
+
+
 ## Array
 1. Two Sum https://leetcode.com/problems/two-sum/description/
 2. Majority Element https://leetcode.com/problems/majority-element/description/
@@ -161,9 +168,72 @@ https://www.geeksforgeeks.org/cpp/implementation-of-rabin-karp-algorithm-in-cpp/
 ### Hard level
 1. Find Median from Data Stream https://leetcode.com/problems/find-median-from-data-stream/
 2. Smallest Range Covering Elements from K Lists https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
-3. 
 
 ## Graphs
+1. Graph DFS
+2. Graph BFS
+3. Detect a cycle in Directed/Undirected graph
+4. Dijkstra's Algorithm
+5. Prim's and Kruskal's Algorithm
+6. Bellmas-ford Algorithm
+7. Kosaraju's Algorithm (Stongly connected components)
+8. Flood Fill https://leetcode.com/problems/flood-fill/
+9. Course Schedule https://leetcode.com/problems/course-schedule/
+10. Course Schedule II https://leetcode.com/problems/course-schedule-ii/
+11. Redundant Connection https://leetcode.com/problems/redundant-connection/
+12. Cheapest Flights Within K Stops https://leetcode.com/problems/cheapest-flights-within-k-stops/
+13. Min Cost to Connect All Points https://leetcode.com/problems/min-cost-to-connect-all-points/
+14. Rotting Oranges https://leetcode.com/problems/rotting-oranges/
+15. Clone Graph https://leetcode.com/problems/clone-graph/
+16. Find the City With the Smallest Number of Neighbors at a Threshold Distance https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+17. 01 Matrix https://leetcode.com/problems/01-matrix/
+18. Number of Islands https://leetcode.com/problems/number-of-islands/
+19. Is Graph Bipartite? https://leetcode.com/problems/is-graph-bipartite/
+20. Most Stones Removed with Same Row or Column https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+21. Number of Ways to Arrive at Destination https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+22. Number of Provinces https://leetcode.com/problems/number-of-provinces/
+
+### Hard level
+1. Alien dictionary https://leetcode.com/problems/alien-dictionary/
+
+## Greedy
+1. Fractional Knapsack
+2. Job sequencing problem
+3. Activity Selection
+4. Assign Cookies https://leetcode.com/problems/assign-cookies/
+5. Coin Change https://leetcode.com/problems/coin-change/
+6. Maximum Length of Pair Chain https://leetcode.com/problems/maximum-length-of-pair-chain/
 
 ## DP
+1. 0/1 knapsack
+2. Unbounded knapsack
+3. Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+4. Target Sum https://leetcode.com/problems/target-sum/
+5. Coin Change https://leetcode.com/problems/coin-change/
+6. Longest Common Subsequence https://leetcode.com/problems/longest-common-subsequence/description/
+7. Longest Increasing Subsequence https://leetcode.com/problems/longest-increasing-subsequence/
+8. Edit Distance https://leetcode.com/problems/edit-distance/
+9. Longest Palindromic Subsequence https://leetcode.com/problems/longest-palindromic-subsequence/
+10. Best Time to Buy and Sell Stock II https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+11. Nth Catalan Number
+12. Unique Binary Search Trees https://leetcode.com/problems/unique-binary-search-trees/
+13. Palindrome Partitioning https://leetcode.com/problems/palindrome-partitioning/
+14. Maximum Product Subarray https://leetcode.com/problems/maximum-product-subarray/
+
+### Hard level
+1. Minimum Cost to Cut a Stick https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+2. Matrix Chain Multiplication
+3. Partition Array Into Two Arrays to Minimize Sum Difference https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
+4. Wildcard Matching https://leetcode.com/problems/wildcard-matching/
+5. Minimum Number of Removals to Make Mountain Array https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
+6. Super Egg Drop https://leetcode.com/problems/super-egg-drop/
+
+
+## Trie
+1. Implement Trie (Prefix Tree) https://leetcode.com/problems/implement-trie-prefix-tree/description/
+2. Longest Common Prefix https://leetcode.com/problems/longest-common-prefix/
+3. Word Break https://leetcode.com/problems/word-break/
+4. Longest word with all prefixes https://leetcode.com/problems/longest-word-with-all-prefixes/
+5. Design phone directory https://leetcode.com/problems/design-phone-directory/
+6. 
 
